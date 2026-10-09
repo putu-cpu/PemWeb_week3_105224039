@@ -1,8 +1,0 @@
-[
-  { "id": 1, "judul": "Panel surya atap", "kategori": "energi", "deskripsi": "Pemantauan produksi listrik harian.", "tersedia": true },
-  { "id": 2, "judul": "Pengomposan otomatis", "kategori": "lingkungan", "deskripsi": "Sistem pengolahan sampah organik.", "tersedia": true },
-  { "id": 3, "judul": "Sistem irigasi pintar", "kategori": "kampus", "deskripsi": "Pengairan otomatis untuk taman.", "tersedia": false },
-  { "id": 4, "judul": "Turbin angin mini", "kategori": "energi", "deskripsi": "Pembangkit listrik tenaga angin skala kecil.", "tersedia": true },
-  { "id": 5, "judul": "Sensor kualitas udara", "kategori": "lingkungan", "deskripsi": "Pemantauan polusi udara real-time.", "tersedia": true },
-  { "id": 6, "judul": "Lampu jalan pintar", "kategori": "kampus", "deskripsi": "Penerangan hemat energi otomatis.", "tersedia": true }
-]
